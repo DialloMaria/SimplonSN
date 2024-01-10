@@ -766,7 +766,7 @@ padding-top: 50px; */
     bottom: 0;
   }
   /* Equipe pedagogique---------------------------*/
-  .titre-equipe{
+  /*.titre-equipe{
     color: #ce0033;
     margin-left: 10%;
     font-size: 18px;
@@ -830,7 +830,7 @@ img{
     background-attachment: white;
     box-shadow: 1px 1px 8px 13px rgb(240, 239, 239);
     margin-top: 0;
-}
+}*/
 
   /* petit histoire -----------------*/
 
@@ -951,7 +951,7 @@ img{
 .Simplon-Alumni button{
     position: absolute;
     right: 300px;
-    top: 5200px;
+    top: 5700px;
     background-color: #CE0033;
     color: white;
     width: 70px;
@@ -976,7 +976,7 @@ img{
     margin-bottom: 30px;
     margin-top: 20px;
     position: absolute;
-    bottom: -4300px;
+    bottom: -4800px;
     right: 300 px;
     border-top-right-radius: 20px;
     border-bottom-right-radius:20px ;
@@ -993,7 +993,7 @@ img{
     margin-bottom: 30px;
     margin-top: 20px;
     position: absolute;
-    bottom: -4580px;
+    bottom: -5077px;
 }
  
 /* section histoire de la communauté-------------*/
@@ -1055,7 +1055,7 @@ img{
     margin-left: 0%;
     position: relative;
 }
-.SSimplon-histoire-de-la-communauté button{
+.Simplon-histoire-de-la-communauté button{
     position: absolute;
     right: 300px;
     top: 5200px;
@@ -1083,7 +1083,7 @@ img{
     margin-bottom: 30px;
     margin-top: 20px;
     position: absolute;
-    bottom: -4300px;
+    bottom: -3600px;
     right: 300 px;
     border-top-right-radius: 20px;
     border-bottom-right-radius:20px ;
@@ -1100,7 +1100,7 @@ img{
     margin-bottom: 30px;
     margin-top: 20px;
     position: absolute;
-    bottom: -4580px;
+    bottom: -3940px;
 }
 
 
@@ -1133,7 +1133,7 @@ img{
 .Simplon-apprenant button{
     position: absolute;
     right: 300px;
-    top: 4690px;
+    top: 3960px;
     background-color: #CE0033;
     color: white;
     width: 70px;
@@ -1158,7 +1158,7 @@ img{
     margin-bottom: 30px;
     margin-top: 20px;
     position: absolute;
-    bottom: -3800px;
+    bottom: -3100px;
     right: 300 px;
     border-top-right-radius: 20px;
     border-bottom-right-radius:20px ;
@@ -1175,7 +1175,7 @@ img{
     margin-bottom: 30px;
     margin-top: 20px;
     position: absolute;
-    bottom: -4070px;
+    bottom: -3380px;
 }
 
 /*section--------------------------------------------------------------9*/
